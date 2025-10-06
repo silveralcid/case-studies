@@ -1,4 +1,4 @@
-# Case Study #1: Add Multi-Select Functionality to Retool
+# Case Study #2: Add Multi-Select Functionality to Retool
 
 **Date:** 2025-10-06
 
