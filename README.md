@@ -7,13 +7,14 @@ This repository focuses on the *process* of engineering—reasoning, debugging, 
 ## Purpose
 
 To document and share my engineering methodology through real or simulated cases involving:
+
 - Debugging complex systems under uncertainty  
 - Evaluating tradeoffs and risks before deploying changes  
 - Structuring investigations and documenting findings  
 - Writing postmortems and mitigation plans that drive learning  
 - Designing safe rollouts, guardrails, and fallback mechanisms  
 
-Each entry highlights not just **what was done**, but **why**—emphasizing decision-making, system thinking, and reproducibility.
+Each entry highlights not just **what was done**, but **why**. Emphasizing decision-making, system thinking, and reproducibility.
 
 ## Writing Standard
 
