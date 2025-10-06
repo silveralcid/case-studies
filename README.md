@@ -29,6 +29,15 @@ Each case follows a consistent narrative format:
 7. **Mitigation & Handoff:** Immediate fixes or follow-up actions.  
 8. **Outcome & Learnings:** Observed impact and how it improved process or reliability.
 
+## Commit Conventions
+
+**add** – for new case studies, artifacts, or diagrams
+**update** – for edits or additions within an existing case
+**refactor** – for reorganizing folder structure or naming
+**fix** – for small corrections (typos, broken links, formatting)
+**meta** – for README, repo setup, templates, or conventions
+**remove** – for deleting old or redundant files
+
 
 ## Disclaimers
 
