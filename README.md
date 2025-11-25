@@ -1,6 +1,7 @@
 # Case Studies
 
-A curated collection of anonymized, professional artifacts that demonstrate my approach to **real-world software engineering problem-solving**.  
+A curated collection of anonymized, professional artifacts that demonstrate my approach to **real-world software engineering problem-solving**.
+
 This repository focuses on the *process* of engineering—reasoning, debugging, and risk evaluation—rather than production code.
 
 
