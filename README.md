@@ -4,7 +4,6 @@ A curated collection of anonymized, professional artifacts that demonstrate my a
 
 This repository focuses on the *process* of engineering—reasoning, debugging, and risk evaluation—rather than production code.
 
-
 ## Purpose
 
 To document and share my engineering methodology through real or simulated cases involving:
@@ -33,10 +32,15 @@ Each case follows a consistent narrative format:
 ## Commit Conventions
 
 **add** – for new case studies, artifacts, or diagrams
+
 **update** – for edits or additions within an existing case
+
 **refactor** – for reorganizing folder structure or naming
+
 **fix** – for small corrections (typos, broken links, formatting)
+
 **meta** – for README, repo setup, templates, or conventions
+
 **remove** – for deleting old or redundant files
 
 
