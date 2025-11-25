@@ -4,13 +4,6 @@ A curated collection of anonymized, professional artifacts that demonstrate my a
 
 This repository focuses on the *process* of engineering—reasoning, debugging, and risk evaluation—rather than production code.
 
-## Disclaimer
-
-These case studies are inspired by real engineering work I’ve done. To protect privacy and intellectual property, all code has been refactored or converted to pseudocode, and all identifiers (variables, paths, services, etc.) have been renamed. 
-
-In some instances the exact issue has been modified or generalized, but each example faithfully represents the reasoning, tradeoffs, and problem-solving approach I used in production.
-
-
 ## Purpose
 
 To document and share my engineering methodology through real or simulated cases involving:
