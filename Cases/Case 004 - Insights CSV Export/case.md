@@ -1,4 +1,4 @@
-# Case Study: <Short, Descriptive Title>
+# Case Study: Insights CSV Export
 
 **Date:** YYYY-MM-DD  
 **Category:** <Bug / Risk Assessment / Incident / Investigation / Decision Log>  
